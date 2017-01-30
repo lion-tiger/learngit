@@ -6,6 +6,8 @@ Git tracks changes of file.
 Creating a new branch is quick AND simple.
 
 
+branch management strategy 1.
+
 
 
 Git 333:wq
